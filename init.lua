@@ -1,0 +1,7 @@
+require("config.keymap")
+require("config.lazy")
+require("config.config")
+require("lsp.mason-config")
+require("lsp.cmp-config")
+require("lsp.cmp-lsp")
+require("config.myautocmd")
