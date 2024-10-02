@@ -10,5 +10,6 @@ return {
     'petertriho/cmp-git',
     'onsails/lspkind.nvim',
     "rafamadriz/friendly-snippets",
-
+    "hrsh7th/cmp-nvim-lsp-signature-help",
+    "tamago324/cmp-zsh",
 }
